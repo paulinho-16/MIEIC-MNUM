@@ -1,0 +1,3 @@
+
+- Método da Bisseção
+- Método da Corda ou Falsa Posição
